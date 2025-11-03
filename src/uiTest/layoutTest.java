@@ -48,18 +48,18 @@ public class layoutTest extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(172, 222, 255));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/logo.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/logo.png"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         jLabel4.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 36)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/OVERVIEW.png"))); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/OVERVIEW.png"))); // NOI18N
 
         jButton1.setBackground(new java.awt.Color(172, 222, 255));
         jButton1.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jButton1.setForeground(new java.awt.Color(8, 118, 183));
-        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/dashboard icon.png"))); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/dashboard icon.png"))); // NOI18N
         jButton1.setText("        Dashboard");
         jButton1.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -71,7 +71,7 @@ public class layoutTest extends javax.swing.JFrame {
         jButton2.setBackground(new java.awt.Color(172, 222, 255));
         jButton2.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jButton2.setForeground(new java.awt.Color(8, 118, 183));
-        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/payment icon.png"))); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/payment icon.png"))); // NOI18N
         jButton2.setText("        To Pay");
         jButton2.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
         jButton2.addActionListener(new java.awt.event.ActionListener() {
@@ -83,7 +83,7 @@ public class layoutTest extends javax.swing.JFrame {
         jButton3.setBackground(new java.awt.Color(172, 222, 255));
         jButton3.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jButton3.setForeground(new java.awt.Color(8, 118, 183));
-        jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/activity icon.png"))); // NOI18N
+        jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/activity icon.png"))); // NOI18N
         jButton3.setText("        Activity");
         jButton3.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
         jButton3.addActionListener(new java.awt.event.ActionListener() {
@@ -95,7 +95,7 @@ public class layoutTest extends javax.swing.JFrame {
         jButton4.setBackground(new java.awt.Color(172, 222, 255));
         jButton4.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jButton4.setForeground(new java.awt.Color(8, 118, 183));
-        jButton4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/to_receive icon.png"))); // NOI18N
+        jButton4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/to_receive icon.png"))); // NOI18N
         jButton4.setText("        To Receive");
         jButton4.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
         jButton4.addActionListener(new java.awt.event.ActionListener() {
@@ -107,12 +107,12 @@ public class layoutTest extends javax.swing.JFrame {
         jLabel5.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 36)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/Menu-HISTORY.png"))); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/Menu-HISTORY.png"))); // NOI18N
 
         jButton5.setBackground(new java.awt.Color(172, 222, 255));
         jButton5.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jButton5.setForeground(new java.awt.Color(8, 118, 183));
-        jButton5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/client icon.png"))); // NOI18N
+        jButton5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/client icon.png"))); // NOI18N
         jButton5.setText("        Clients");
         jButton5.setToolTipText("");
         jButton5.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
@@ -126,7 +126,7 @@ public class layoutTest extends javax.swing.JFrame {
         jButton6.setBackground(new java.awt.Color(172, 222, 255));
         jButton6.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jButton6.setForeground(new java.awt.Color(8, 118, 183));
-        jButton6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/salesIcon.png"))); // NOI18N
+        jButton6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/salesIcon.png"))); // NOI18N
         jButton6.setText("        Sales");
         jButton6.setToolTipText("");
         jButton6.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
@@ -197,7 +197,7 @@ public class layoutTest extends javax.swing.JFrame {
         jLabel6.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(8, 118, 183));
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/dashboard icon.png"))); // NOI18N
+        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/dashboard icon.png"))); // NOI18N
         jLabel6.setText("          Dashboard");
 
         javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
@@ -224,7 +224,7 @@ public class layoutTest extends javax.swing.JFrame {
         jLabel7.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jLabel7.setForeground(new java.awt.Color(8, 118, 183));
         jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/payment icon.png"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/payment icon.png"))); // NOI18N
         jLabel7.setText("         To Pay");
         jLabel7.setToolTipText("");
 
@@ -252,7 +252,7 @@ public class layoutTest extends javax.swing.JFrame {
         jLabel8.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(8, 118, 183));
         jLabel8.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/activity icon.png"))); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/activity icon.png"))); // NOI18N
         jLabel8.setText("         Activity");
 
         javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
@@ -279,7 +279,7 @@ public class layoutTest extends javax.swing.JFrame {
         jLabel9.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jLabel9.setForeground(new java.awt.Color(8, 118, 183));
         jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/to_receive icon.png"))); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/to_receive icon.png"))); // NOI18N
         jLabel9.setText("          To Receive");
 
         javax.swing.GroupLayout jPanel7Layout = new javax.swing.GroupLayout(jPanel7);
@@ -306,7 +306,7 @@ public class layoutTest extends javax.swing.JFrame {
         jLabel10.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(8, 118, 183));
         jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/client icon.png"))); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/client icon.png"))); // NOI18N
         jLabel10.setText("          Clients");
 
         javax.swing.GroupLayout jPanel8Layout = new javax.swing.GroupLayout(jPanel8);
@@ -333,7 +333,7 @@ public class layoutTest extends javax.swing.JFrame {
         jLabel11.setFont(new java.awt.Font("Gill Sans Ultra Bold", 0, 30)); // NOI18N
         jLabel11.setForeground(new java.awt.Color(8, 118, 183));
         jLabel11.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/salesIcon.png"))); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/salesIcon.png"))); // NOI18N
         jLabel11.setText("          Sales");
 
         javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
@@ -362,7 +362,7 @@ public class layoutTest extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(50, 115, 155));
         jPanel1.setPreferredSize(new java.awt.Dimension(1930, 300));
 
-        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/uiTest/menu-bar 2.png"))); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Resources/menu-bar 2.png"))); // NOI18N
         jLabel12.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel12MouseClicked(evt);

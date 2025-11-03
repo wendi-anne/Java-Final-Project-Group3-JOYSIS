@@ -105,7 +105,7 @@
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/logo.png"/>
+              <Image iconType="3" name="/Resources/logo.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jLabel2"/>
           </Properties>
@@ -120,7 +120,7 @@
             </Property>
             <Property name="horizontalAlignment" type="int" value="2"/>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/OVERVIEW.png"/>
+              <Image iconType="3" name="/Resources/OVERVIEW.png"/>
             </Property>
           </Properties>
         </Component>
@@ -136,7 +136,7 @@
               <Color blue="b7" green="76" red="8" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/dashboard icon.png"/>
+              <Image iconType="3" name="/Resources/dashboard icon.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="        Dashboard"/>
             <Property name="horizontalAlignment" type="int" value="2"/>
@@ -157,7 +157,7 @@
               <Color blue="b7" green="76" red="8" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/payment icon.png"/>
+              <Image iconType="3" name="/Resources/payment icon.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="        To Pay"/>
             <Property name="horizontalAlignment" type="int" value="2"/>
@@ -178,7 +178,7 @@
               <Color blue="b7" green="76" red="8" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/activity icon.png"/>
+              <Image iconType="3" name="/Resources/activity icon.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="        Activity"/>
             <Property name="horizontalAlignment" type="int" value="2"/>
@@ -199,7 +199,7 @@
               <Color blue="b7" green="76" red="8" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/to_receive icon.png"/>
+              <Image iconType="3" name="/Resources/to_receive icon.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="        To Receive"/>
             <Property name="horizontalAlignment" type="int" value="2"/>
@@ -218,7 +218,7 @@
             </Property>
             <Property name="horizontalAlignment" type="int" value="2"/>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/Menu-HISTORY.png"/>
+              <Image iconType="3" name="/Resources/Menu-HISTORY.png"/>
             </Property>
           </Properties>
         </Component>
@@ -234,7 +234,7 @@
               <Color blue="b7" green="76" red="8" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/client icon.png"/>
+              <Image iconType="3" name="/Resources/client icon.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="        Clients"/>
             <Property name="toolTipText" type="java.lang.String" value=""/>
@@ -257,7 +257,7 @@
               <Color blue="b7" green="76" red="8" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/salesIcon.png"/>
+              <Image iconType="3" name="/Resources/salesIcon.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="        Sales"/>
             <Property name="toolTipText" type="java.lang.String" value=""/>
@@ -339,7 +339,7 @@
                     </Property>
                     <Property name="horizontalAlignment" type="int" value="4"/>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="3" name="/uiTest/dashboard icon.png"/>
+                      <Image iconType="3" name="/Resources/dashboard icon.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="          Dashboard"/>
                   </Properties>
@@ -391,7 +391,7 @@
                     </Property>
                     <Property name="horizontalAlignment" type="int" value="4"/>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="3" name="/uiTest/payment icon.png"/>
+                      <Image iconType="3" name="/Resources/payment icon.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="         To Pay"/>
                     <Property name="toolTipText" type="java.lang.String" value=""/>
@@ -444,7 +444,7 @@
                     </Property>
                     <Property name="horizontalAlignment" type="int" value="4"/>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="3" name="/uiTest/activity icon.png"/>
+                      <Image iconType="3" name="/Resources/activity icon.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="         Activity"/>
                   </Properties>
@@ -496,7 +496,7 @@
                     </Property>
                     <Property name="horizontalAlignment" type="int" value="4"/>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="3" name="/uiTest/to_receive icon.png"/>
+                      <Image iconType="3" name="/Resources/to_receive icon.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="          To Receive"/>
                   </Properties>
@@ -548,7 +548,7 @@
                     </Property>
                     <Property name="horizontalAlignment" type="int" value="4"/>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="3" name="/uiTest/client icon.png"/>
+                      <Image iconType="3" name="/Resources/client icon.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="          Clients"/>
                   </Properties>
@@ -600,7 +600,7 @@
                     </Property>
                     <Property name="horizontalAlignment" type="int" value="4"/>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="3" name="/uiTest/salesIcon.png"/>
+                      <Image iconType="3" name="/Resources/salesIcon.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="          Sales"/>
                   </Properties>
@@ -649,7 +649,7 @@
         <Component class="javax.swing.JLabel" name="jLabel12">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/uiTest/menu-bar 2.png"/>
+              <Image iconType="3" name="/Resources/menu-bar 2.png"/>
             </Property>
           </Properties>
           <Events>
